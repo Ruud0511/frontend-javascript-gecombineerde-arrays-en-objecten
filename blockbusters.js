@@ -83,7 +83,7 @@ console.log(movies.length-1);
 //     actors: [ 'Henry Fonda', 'Lee J. Cobb', 'Martin Balsam' ]
 // }
 
-console.log(movies[5]);
+console.log(movies[movies.length-1]);
 
 // ------------------------------------------------------------------------------ //
 // Opdracht 3a: Log de lijst van acteurs uit van de film "Pulp Fiction" uit de 'movies' array.
